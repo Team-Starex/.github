@@ -262,17 +262,6 @@ HMI_WEB/
 
 ---
 
-## 👥 팀 구성
-
-| 이름       | GitHub                                           | 담당 역할                        |
-| ---------- | ------------------------------------------------ | -------------------------------- |
-| **강현수** | [@kanghyunsu](https://github.com/kanghyunsu)     | ACT_ECU (액추에이터 제어)        |
-| **김정연** | [@kimjeongyeon](https://github.com/kimjeongyeon) | INPUT_ECU (센서 입력 처리)       |
-| **이무석** | [@leemoosuk](https://github.com/leemoosuk)       | CONTROL_ECU (중앙 제어 - TC375)  |
-| **황선안** | [@hwangsunan](https://github.com/hwangsunan)     | HMI_WEB (라즈베리파이 모든 계층) |
-
----
-
 ## 🔧 기술 스택
 
 ### 임베디드 시스템
