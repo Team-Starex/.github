@@ -6,6 +6,11 @@
 
 차량 내 위험 상황을 실시간으로 감지하고 운전자에게 경고하며 자동으로 대응하는 **임베디드-IoT 통합 안전 시스템**입니다. 센서로부터 입력을 수집하고, 중앙 ECU에서 데이터를 처리하며, 웹 기반 대시보드와 음향/시각 장치를 통해 실시간으로 안전 상황을 관리합니다.
 
+## 📹 소개 및 시연 영상
+<a href="https://drive.google.com/file/d/1rRpS5toUB6qsFyyV6tDv0kJRIetMg28_/view?usp=sharing">
+  <img src="https://drive.google.com/thumbnail?id=1rRpS5toUB6qsFyyV6tDv0kJRIetMg28_&sz=w1000" alt="Demo Video" width="700"/>
+</a>
+
 ## 👥 팀 소개
 
 ---
